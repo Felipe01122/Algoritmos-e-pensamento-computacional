@@ -1,2 +1,2 @@
-# Algoritmos-e-pensamento-computacional
-Algoritmos e pensamento computacional
+Felipe da Silva Santos
+Rgm: 41721106
